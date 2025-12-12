@@ -40,15 +40,13 @@ Matches against a wide range of real-world colors.
 RealTime-Color-Identification/
 │
 ├── src/
-│ └── color_detector.py # Main program
+│ └── color_detector.py 
 │
 ├── data/
-│ └── color_data.csv # 138-color dataset
+│ └── color_data.csv 
 │
-├── assets/ # (Optional) Screenshots / output images
-│
-├── README.md # Project documentation
-└── .gitignore # Ignore venv, cache, etc.
+├── README.md 
+└── .gitignore 
 ```
 ---
 

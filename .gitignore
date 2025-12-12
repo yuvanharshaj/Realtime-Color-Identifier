@@ -1,0 +1,61 @@
+# -----------------------------
+# Python Cache / Compiled Files
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# -----------------------------
+# Virtual Environment
+# -----------------------------
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Do NOT ignore pyvenv.cfg (optional)
+# pyvenv.cfg
+
+# -----------------------------
+# VS Code
+# -----------------------------
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Environment / Logs
+# -----------------------------
+*.log
+*.env
+*.ini
+*.bak
+*.tmp
+*~
+
+# -----------------------------
+# Build / Distribution
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Python Packaging / Cache
+# -----------------------------
+.cache/
+*.cache
+.ipynb_checkpoints/
+
+# -----------------------------
+# Ignore large folders (optional)
+# -----------------------------
+# assets/output/
+# screenshots/

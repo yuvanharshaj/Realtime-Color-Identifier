@@ -1,0 +1,45 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.pickle
+*.log
+
+# ---- Virtual Environment ----
+venv/
+.env/
+env/
+.venv/
+
+# ---- VS Code ----
+.vscode/
+*.code-workspace
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter / Notebook ----
+.ipynb_checkpoints/
+
+# ---- Build / Distribution ----
+build/
+dist/
+*.egg-info/
+
+# ---- Cache ----
+.cache/
+*.cache
+
+# ---- Backup Files ----
+*.bak
+*.tmp
+*~
+
+# ---- Images/Output (optional, if generated dynamically) ----
+# Uncomment if your screenshots/output shouldn't be pushed
+# outputs/
+# assets/generated/
